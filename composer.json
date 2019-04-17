@@ -1,0 +1,22 @@
+{
+    "name": "miapenso/easyswoole-db",
+    "description": "this is db",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "miapenso",
+            "email": "someday158@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "easyswoole/easyswoole": "^3",
+        "easyswoole/mysqli": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Easyswoole\\": "src"
+        }
+    }
+}
