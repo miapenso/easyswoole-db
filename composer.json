@@ -11,8 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "easyswoole/easyswoole": "^3",
-        "easyswoole/mysqli": "dev-master"
+        
     },
     "autoload": {
         "psr-4": {
