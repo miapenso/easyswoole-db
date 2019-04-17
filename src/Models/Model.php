@@ -33,6 +33,10 @@ class Model extends TpORM
             return null;
         }
     }
+    static function init()
+    {
+        return new static();
+    }
     protected function find($id=null){
         try{
             if( $id ){
