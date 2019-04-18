@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "miapenso\\easyswoole-db\\": "src/"
+            "Miapenso\\Easyswoole\\": "src/"
         }
     }
 }
