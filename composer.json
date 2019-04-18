@@ -1,6 +1,6 @@
 {
     "name": "miapenso/easyswoole-db",
-    "description": "easyswoole-db!!",
+    "description": "easyswoole-db",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "miapenso\\easyswoole-db\\": "src"
+            "miapenso\\easyswoole-db\\": "src/"
         }
     }
 }
